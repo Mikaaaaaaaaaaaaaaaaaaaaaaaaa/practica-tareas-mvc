@@ -1,0 +1,22 @@
+﻿@model Tareas.Models.Tarea
+<h2>Nueva tarea</h2>
+
+<form asp-action="Crear" method="post">
+    <div>
+        <label asp-for="Titulo"></label>
+        <input asp-for="Titulo" />
+        <span asp-validation-for="Titulo"></span>
+    </div>
+
+    <div>
+        <label asp-for="Prioridad"></label>
+        <select asp-for="Prioridad">
+            <option value="1">Baja</option>
+            <option value="2">Media</option>
+            <option value="3">Alta</option>
+        </select>
+    </div>
+
+    <button type="submit">Guardar</button>
+
+</form>

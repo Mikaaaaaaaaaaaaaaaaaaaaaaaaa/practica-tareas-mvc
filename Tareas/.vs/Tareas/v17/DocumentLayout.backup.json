@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|c:\\users\\micael sanchez\\source\\repos\\tareas\\tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|solutionrelative:tareas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|c:\\users\\micael sanchez\\source\\repos\\tareas\\tareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|solutionrelative:tareas\\models\\tarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|c:\\users\\micael sanchez\\source\\repos\\tareas\\tareas\\services\\tareaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|solutionrelative:tareas\\services\\tareaservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|c:\\users\\micael sanchez\\source\\repos\\tareas\\tareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|solutionrelative:tareas\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|c:\\users\\micael sanchez\\source\\repos\\tareas\\tareas\\views\\tareas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|solutionrelative:tareas\\views\\tareas\\crear.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|c:\\users\\micael sanchez\\source\\repos\\tareas\\tareas\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7D624871-5981-4E80-90E2-8027CD5A9699}|Tareas\\Tareas.csproj|solutionrelative:tareas\\views\\tareas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{873151d0-cf2e-48cc-b4bf-ad0394f6a3c3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Program.cs",
+              "RelativeDocumentMoniker": "Tareas\\Program.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Program.cs",
+              "RelativeToolTip": "Tareas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:53:35.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Crear.cshtml",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Views\\Tareas\\Crear.cshtml",
+              "RelativeDocumentMoniker": "Tareas\\Views\\Tareas\\Crear.cshtml",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Views\\Tareas\\Crear.cshtml",
+              "RelativeToolTip": "Tareas\\Views\\Tareas\\Crear.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T20:52:36.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Views\\Tareas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Tareas\\Views\\Tareas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Views\\Tareas\\Index.cshtml",
+              "RelativeToolTip": "Tareas\\Views\\Tareas\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-23T20:49:10.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TareasController.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Controllers\\TareasController.cs",
+              "RelativeDocumentMoniker": "Tareas\\Controllers\\TareasController.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Controllers\\TareasController.cs",
+              "RelativeToolTip": "Tareas\\Controllers\\TareasController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAD4vy0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:47:59.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TareaServicio.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Services\\TareaServicio.cs",
+              "RelativeDocumentMoniker": "Tareas\\Services\\TareaServicio.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Services\\TareaServicio.cs",
+              "RelativeToolTip": "Tareas\\Services\\TareaServicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:47:27.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Tarea.cs",
+              "DocumentMoniker": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Models\\Tarea.cs",
+              "RelativeDocumentMoniker": "Tareas\\Models\\Tarea.cs",
+              "ToolTip": "C:\\Users\\Micael Sanchez\\source\\repos\\Tareas\\Tareas\\Models\\Tarea.cs",
+              "RelativeToolTip": "Tareas\\Models\\Tarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-23T20:38:50.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+﻿@model List<Tareas.Models.Tarea>
+
+@if (TempData["Mensaje"] != null)
+{
+    <div>@TempData["Mensaje"]</div>
+}
+
+<a asp-action="Crear">Nueva tarea</a>
+
+<table>
+    <thead>
+
+        <tr>
+            <th>Id</th>
+            <th>Título</th>
+            <th>Prioridad</th>
+            <th>Completada</th>
+            <th>Acción</th>
+        </tr>
+
+    </thead
+
+    <tbody>
+        @foreach (var tarea in Model)
+        {
+            <tr>
+                <td>@tarea.Id</td>
+                <td>@tarea.Titulo</td>
+                <td>@tarea.Prioridad</td>
+                <td>@(tarea.Completada ? "Sí" : "No")</td>
+                <td>
+                    <form asp-action="AlternarCompletada" method="post">
+                        <input type="hidden" name="id" value="@tarea.Id" />
+                        <button type="submit">Cambiar estado</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
